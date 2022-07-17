@@ -71,7 +71,7 @@ public class ContactOfPerson {
     }
 
     public String getZip() {
-        return zip; 
+        return zip;
     }
 
     public void setZip(String zip) {
@@ -92,6 +92,4 @@ public class ContactOfPerson {
                 + city + ", state=" + state + ", email=" + email + ", zip=" + zip + ", phoneNumber=" + phoneNumber
                 + "]";
     }
-
-
 }
