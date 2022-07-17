@@ -71,7 +71,7 @@ public class ContactOfPerson {
     }
 
     public String getZip() {
-        return zip;
+        return zip; 
     }
 
     public void setZip(String zip) {
